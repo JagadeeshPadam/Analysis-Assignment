@@ -1,0 +1,13 @@
+Month,Expense Category,Amount,Region,Sales,Type,Aging Bucket
+Jan-2024,Research,13134,East,136545,AR,61-90 days
+Feb-2024,IT,10039,North,109079,AR,90+ days
+Mar-2024,Research,41919,East,126386,AR,0-30 days
+Apr-2024,Research,38844,West,115122,AR,0-30 days
+May-2024,IT,44437,East,62754,AR,31-60 days
+Jun-2024,IT,14714,West,104798,AP,90+ days
+Jul-2024,Research,29372,West,72201,AR,90+ days
+Aug-2024,Operations,34885,East,82995,AP,90+ days
+Sep-2024,Marketing,41950,South,73780,AR,0-30 days
+Oct-2024,Marketing,49297,South,80211,AP,90+ days
+Nov-2024,Research,46924,South,114445,AR,0-30 days
+Dec-2024,Research,39931,North,149882,AR,0-30 days
